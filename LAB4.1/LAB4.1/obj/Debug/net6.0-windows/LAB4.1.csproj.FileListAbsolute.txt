@@ -1,0 +1,17 @@
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\bin\Debug\net6.0-windows\LAB4.1.exe
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\bin\Debug\net6.0-windows\LAB4.1.deps.json
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\bin\Debug\net6.0-windows\LAB4.1.runtimeconfig.json
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\bin\Debug\net6.0-windows\LAB4.1.dll
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\bin\Debug\net6.0-windows\LAB4.1.pdb
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.csproj.AssemblyReference.cache
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4._1.Form1.resources
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.csproj.GenerateResource.cache
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.AssemblyInfoInputs.cache
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.AssemblyInfo.cs
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.csproj.CoreCompileInputs.cache
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.dll
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\refint\LAB4.1.dll
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.pdb
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\LAB4.1.genruntimeconfig.cache
+C:\OOP\LAB4.1\LAB4.1\LAB4.1\obj\Debug\net6.0-windows\ref\LAB4.1.dll
